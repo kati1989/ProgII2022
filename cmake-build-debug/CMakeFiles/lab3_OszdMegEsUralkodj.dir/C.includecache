@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kati/Desktop/2022_II_felev/Algoritmusok_II/lab3_OszdMegEsUralkodj/main.c
+stdio.h
+-
+limits.h
+-
+

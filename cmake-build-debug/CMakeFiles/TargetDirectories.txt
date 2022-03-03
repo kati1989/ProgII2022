@@ -1,0 +1,3 @@
+C:/Users/Kati/Desktop/2022_II_felev/Algoritmusok_II/lab3_OszdMegEsUralkodj/cmake-build-debug/CMakeFiles/lab3_OszdMegEsUralkodj.dir
+C:/Users/Kati/Desktop/2022_II_felev/Algoritmusok_II/lab3_OszdMegEsUralkodj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kati/Desktop/2022_II_felev/Algoritmusok_II/lab3_OszdMegEsUralkodj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
